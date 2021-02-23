@@ -1,2 +1,4 @@
 # git-tutorial
-tutorial git by google
+Tutorial git by google
+
+I am editing the README file. Adding some more details about the project description.
